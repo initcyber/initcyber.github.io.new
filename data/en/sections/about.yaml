@@ -79,8 +79,8 @@ badges:
 
 - type: certification
   name: Microsoft Certified - Security Compliance and Identity Fundamental
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://learn.microsoft.com/en-us/users/justinjohnson-6217/transcript/7ox5hzywmkj0yp7?tab=credentials-tab"
+  url: "https://learn.microsoft.com/en-us/users/justinjohnson-6217/transcript/7ox5hzywmkj0yp7?tab=credentials-tab"
+  badge: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"
 
 - type: soft-skill-indicator
   name: Leadership
