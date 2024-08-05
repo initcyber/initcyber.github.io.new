@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Information Systems Security Engineer
+designation: Lead Information Systems Security Engineer
 # your company information
 company:
   name: SeKON.
@@ -68,19 +68,19 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: CISSP
+  url: "https://www.credly.com/badges/56c43c47-8cc7-41e4-b581-e44138752d00/public_url"
+  badge: "https://images.credly.com/size/220x220/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: AWS Solutions Architect Associate
+  url: "https://www.credly.com/badges/1c73b6ff-c61f-4e4c-b4d0-22a5d413337c/public_url"
+  badge: "https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: Microsoft Certified - Security Compliance and Identity Fundamental
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  badge: "https://learn.microsoft.com/en-us/users/justinjohnson-6217/transcript/7ox5hzywmkj0yp7?tab=credentials-tab"
 
 - type: soft-skill-indicator
   name: Leadership
@@ -93,7 +93,7 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Automation
   percentage: 85
   color: orange
 
