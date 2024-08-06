@@ -1,7 +1,7 @@
 baseURL: https://www.initcyber.com/initcyber.github.io.new
 
 languageCode: bn
-title: "John's Blog"
+title: "Justins Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Justins Blog"
     weight: 1
   bn:
     languageCode: bn
