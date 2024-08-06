@@ -57,8 +57,8 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # Background image of the landing page
-  background: /images/site/background.png
+  # Justin's image of the landing page
+  Justin's: /images/site/Justin's.png
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -168,7 +168,7 @@ params:
           user: hossainemruz
           text: Tip Me
           textColor: '#f9fafc'
-          backgroundColor: '#248aaa'
+          Justin'sColor: '#248aaa'
         # buymeacoffee:
         #   user: <your buymeacoffee.com user>
         #   text: Support me on Buy me a coffee!
