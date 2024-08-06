@@ -11,39 +11,39 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Splunk
+  logo: /images/sections/skills/splunk.png
+  summary: "Capable of deploying, and creating dashboards and SPL's on Splunk. Experienced in deciphering log files, and presenting them in a meaningful way."
+  url: "https://splunk.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Python Development
+  logo: /images/sections/skills/python.png
+  summary: "Skilled in using Python as the primary tool for professional development, enabling me to craft high-quality, scalable, testable, and maintainable scripts, programs, and automations."
+  url: "https://python.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Gained experience working across multiple cloud environments, with expertise in deploying and managing applications on platforms such as GCP, AWS, Azure, and other prominent cloud providers."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Proficient in writing containerized applications, leveraging Docker's capabilities to create robust, portable, and easily deployable solutions. "
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+- name: Terraform
+  logo: /images/sections/skills/terraform.png
+  summary: "Proficient in using Terraform to manage infrastructure as code, with expertise in: Writing modular and reusable configuration files, utilizing Terraform's state management system to track changes and ensure consistency, and crafting custom data sources and provisioners to integrate with external services"
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main operating system for servers and desktops. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Know basic Ansible language, playbooks, scripting, etc. Utilized to automate day-to-day tasks and provide idempotency to information systems."
