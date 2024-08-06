@@ -50,8 +50,8 @@ socialLinks:
 
 - name: Mastadon/Infosec Exchange
   icon: "fab fa-mastodon"
-  url: "#"
-  rel: "https://infosec.exchange/@initcyber"
+  url: "https://infosec.exchange/@initcyber"
+  rel: "me noopener"
 
 # - name: ResearchGate
 #   icon: "fab fa-researchgate"
