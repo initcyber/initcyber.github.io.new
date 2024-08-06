@@ -35,6 +35,10 @@ skills:
   summary: "Proficient in using Terraform to manage infrastructure as code, with expertise in: Writing modular and reusable configuration files, utilizing Terraform's state management system to track changes and ensure consistency, and crafting custom data sources and provisioners to integrate with external services"
   url: "https://prometheus.io/"
 
+- name: Tenable/ACAS
+  logo: /images/sections/skills/tenable.png
+  summary: "Experienced in utilizing ACAS/Tenable security tools for vulnerability management and compliance, with expertise in scanning and assessing network environments for vulnerabilities, prioritizing and remediating identified vulnerabilities to minimize risk, integrating ACAS/Tenable with other security tools and systems for comprehensive threat detection"
+  
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system for servers and desktops. Capable of writing bash/shell scripts."
@@ -48,6 +52,3 @@ skills:
   logo: /images/sections/skills/ansible.png
   summary: "Know basic Ansible language, playbooks, scripting, etc. Utilized to automate day-to-day tasks and provide idempotency to information systems."
 
-- name: Tenable/ACAS
-  logo: /images/sections/skills/tenable.png
-  summary: "Experienced in utilizing ACAS/Tenable security tools for vulnerability management and compliance, with expertise in scanning and assessing network environments for vulnerabilities, prioritizing and remediating identified vulnerabilities to minimize risk, integrating ACAS/Tenable with other security tools and systems for comprehensive threat detection"
