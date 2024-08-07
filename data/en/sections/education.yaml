@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Colorado State University
     url: "https://www.csuglobal.edu"
-    logo: /images/sections/education/csu_global.png
+    logo: /images/sections/education/csu_global.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
@@ -30,7 +30,7 @@ degrees:
   #   url: "#"
   # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #   url: "#"
-  custonSections: #(optional)
+  customSections: #(optional)
     - name: Magna Cum Laude
       content: Graduated with Great Distinction (top 10%)
 
