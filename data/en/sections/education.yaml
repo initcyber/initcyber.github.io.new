@@ -10,12 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Bachelors in Cybersecurity
   icon: fa-microscope
   timeframe: 2017-2018
   institution:
     name: Colorado State University
-    url: "#"
+    url: "https://www.csuglobal.edu"
     logo: /images/sections/education/csu_global.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
@@ -30,13 +30,17 @@ degrees:
   #   url: "#"
   # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #   url: "#"
+  custonSections: #(optional)
+    - name: Magna Cum Laude
+      content: Graduated with Great Distinction (top 10%)
+
 
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2009-2011
   institution:
     name: Florida State University
-    url: "#"
+    url: "https://www.fsu.edu"
     logo: /images/sections/education/fsu.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
